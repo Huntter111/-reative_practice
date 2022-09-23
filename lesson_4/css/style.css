@@ -306,6 +306,9 @@ article .article-title {
 	.article-grid > .wide {
 		grid-column-end: -1;
 	}
+	.section-grid {
+		margin: 75px 0;
+	}
 	.article-img {
 		max-width: 100%;
 	}
