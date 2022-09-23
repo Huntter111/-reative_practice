@@ -268,11 +268,6 @@ article .article-title {
 	}
 	.header-mobile-logo {
 		display: block;
-		display: flex;
-		justify-content: center;
-		align-items: center;
-		max-width: 960px;
-		margin: 0 auto;
 		background: #131c2f;
 		padding: 14px 0;
 		border-bottom: 1px solid rgba(233, 236, 243, 0.25);
@@ -316,6 +311,14 @@ article .article-title {
 	}
 	.article {
 		grid-template-columns: 1fr;
+	}
+	.mobile-logo {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+	.vertical-mobile-logo {
+		max-width: 182px;
 	}
 	img {
 		display: block;
