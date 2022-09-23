@@ -290,7 +290,7 @@ article .article-title {
 	}
 	.main-wrapper {
 		margin-top: 72px;
-		margin-bottom: 100px;
+		/* margin-bottom: 100px; */
 	}
 	.section-header h2 {
 		font-size: 32px;
