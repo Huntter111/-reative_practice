@@ -293,6 +293,7 @@ article .article-title {
 		top: unset;
 		bottom: 0;
 		border-top: 1px solid rgba(233, 236, 243, 0.278);
+		border-bottom:none;
 	}
 	.logo {
 		display: none;
