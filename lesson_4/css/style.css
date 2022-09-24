@@ -292,6 +292,7 @@ article .article-title {
 	.layout-header {
 		top: unset;
 		bottom: 0;
+		border-bottom: none;
 	}
 	.logo {
 		display: none;
